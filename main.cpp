@@ -5,7 +5,9 @@ using namespace std;
 int main()
 {
 	cout<<"ciao";
-
-    //pass: ciao
-    return 0;
+	
+	cout<<"bug risolto";
+	cout<<"ss";
+    	
+	return 0;
 }
