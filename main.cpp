@@ -6,6 +6,6 @@ int main()
 {
 	cout<<"ciao";
 
-
+    //pass: ciao
     return 0;
 }
