@@ -6,7 +6,6 @@ int main()
 {
 	cout<<"ciao";
 
-    cout<<"nuovo ciao";
 
     return 0;
 }
